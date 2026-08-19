@@ -19,7 +19,6 @@ UNet 學習率：2e-4
 Text Encoder 學習率：2e-5  
 
 結果：  
-![Eva](simple/eva_default.jpg)
-![Eva](simple/eva_default_2.jpg)
+| ![Eva](simple/eva_default.jpg) | ![Eva](simple/eva_default_2.jpg) | ![Eva](simple/eva_default_3.jpg) |
 
 
