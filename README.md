@@ -20,8 +20,8 @@ Text Encoder 學習率：2e-5
 
 結果：  
 <p align="center">
-  <img src="simple/eva_default.jpg" width="50%" />
-  <img src="simple/eva_default_2.jpg" width="50%" />
+  <img src="simple/eva_default.jpg" width="33%" />
+  <img src="simple/eva_default_2.jpg" width="33%" />
 </p>
 
 為增加模型多樣性與泛化性，透過適當刪減與新增加訓練素材與修改訓練參數來取得更好的LoRA內容。
@@ -40,6 +40,6 @@ Text Encoder 學習率：4e-5
 
 結果：  
 <p align="center">
-  <img src="simple/eva_default(20260901).jpg" width="50%" />
-  <img src="simple/eva_cadet(20260901).jpg" width="50%" />
+  <img src="simple/eva_default(20260901).jpg" width="33%" />
+  <img src="simple/eva_cadet(20260901).jpg" width="33%" />
 </p>
