@@ -20,9 +20,26 @@ Text Encoder 學習率：2e-5
 
 結果：  
 <p align="center">
-  <img src="simple/eva_default.jpg" width="32%" />
-  <img src="simple/eva_default_2.jpg" width="32%" />
-  <img src="simple/eva_default_3.jpg" width="32%" />
+  <img src="simple/eva_default.jpg" width="50%" />
+  <img src="simple/eva_default_2.jpg" width="50%" />
 </p>
 
+為增加模型多樣性與泛化性，透過適當刪減與新增加訓練素材與修改訓練參數來取得更好的LoRA內容。
 
+基底模型：Illustrious XL 0.1  
+
+訓練工具：Kohya_ss  
+
+資料數量：100 
+
+素材大小：1024*1024  
+
+UNet 學習率：8e-5  
+
+Text Encoder 學習率：4e-5  
+
+結果：  
+<p align="center">
+  <img src="simple/eva_default(20260901).jpg" width="50%" />
+  <img src="simple/eva_cadet(20260901).jpg" width="50%" />
+</p>
