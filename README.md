@@ -24,6 +24,8 @@ Text Encoder 學習率：2e-5
   <img src="simple/eva_default_2.jpg" width="33%" />
 </p>
 
+---
+
 為增加模型多樣性與泛化性，透過適當刪減與新增加訓練素材與修改訓練參數來取得更好的LoRA內容。
 
 基底模型：Illustrious XL 0.1  
@@ -43,6 +45,8 @@ Text Encoder 學習率：4e-5
   <img src="simple/eva_default(20260901).jpg" width="33%" />
   <img src="simple/eva_cadet(20260901).jpg" width="33%" />
 </p>
+
+---
 
 透過適當處理訓練素材並改善素材標籤來提升LoRA內容的精準度與彈性。
 
