@@ -43,3 +43,23 @@ Text Encoder 學習率：4e-5
   <img src="simple/eva_default(20260901).jpg" width="33%" />
   <img src="simple/eva_cadet(20260901).jpg" width="33%" />
 </p>
+
+透過適當處理訓練素材並改善素材標籤來提升LoRA內容的精準度與彈性。
+
+基底模型：Illustrious XL 0.1  
+
+訓練工具：Kohya_ss  
+
+資料數量：107 
+
+素材大小：1024*1024  
+
+UNet 學習率：1e-4  
+
+Text Encoder 學習率：4e-5  
+
+結果：  
+<p align="center">
+  <img src="simple/eva_cadet(20260902).jpg" width="33%" />
+  <img src="simple/eva_cadet_nocapelet(20260902).jpg" width="33%" />
+</p>
