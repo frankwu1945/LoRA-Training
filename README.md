@@ -21,11 +21,18 @@ UNet 學習率：2e-4
 Text Encoder 學習率：2e-5  
 
 結果：  
-<p align="center">
-  <img src="simple/eva_default.jpg" width="33%" />
-  <img src="simple/eva_default_2.jpg" width="33%" />
-</p>
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="simple/eva_default.jpg" width="100%" /><br>
+      <b>Eva 的經典造型，保留改變手勢與頭戴花環等彈性</b>
+    </td>
+    <td align="center">
+      <img src="simple/eva_default_2.jpg" width="100%" /><br>
+      <b>Eva 的經典造型，能透過提詞改變角色的眼睛狀況</b>
+    </td>
+  </tr>
+</table>
 ---
 
 為增加模型多樣性與泛化性，透過適當刪減與新增加訓練素材與修改訓練參數來取得更好的LoRA內容。
@@ -39,10 +46,20 @@ UNet 學習率：8e-5
 Text Encoder 學習率：4e-5  
 
 結果：  
-<p align="center">
-  <img src="simple/eva_default(20260901).jpg" width="33%" />
-  <img src="simple/eva_cadet(20260901).jpg" width="33%" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="simple/eva_default(20260901).jpg" width="100%" /><br>
+      <b>Eva 的 Cadet 造型</b>
+    </td>
+    <td align="center">
+      <img src="simple/eva_cadet(20260901).jpg" width="100%" /><br>
+      <b>Eva 的 Cadet 造型</b>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
@@ -61,11 +78,11 @@ Text Encoder 學習率：4e-5
   <tr>
     <td align="center">
       <img src="simple/eva_cadet(20260902).jpg" width="100%" /><br>
-      <b>Eva Cadet</b>
+      <b>Eva 的 Cadet 造型</b>
     </td>
     <td align="center">
       <img src="simple/eva_cadet_nocapelet(20260902).jpg" width="100%" /><br>
-      <b>Eva Cadet — No Capelet</b>
+      <b>將cadet造型中的白色披肩移除</b>
     </td>
   </tr>
 </table>
