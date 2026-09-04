@@ -2,11 +2,11 @@
 ---
 本專案旨在訓練一款能高度還原訓練角色之外表特色及其特定服飾的 LoRA 模型。透過精準的資料集處理與參數調校，本模型能在維持角色面部特徵與服裝一致性的同時，具備良好的動作與背景泛化能力。  
 ---
-角色：Eva  
+訓練角色：Eva  
 
-來源：電腦遊戲 Eternal Return 永恆輪迴  
+角色來源：電腦遊戲 Eternal Return 永恆輪迴  
 
-基底模型：Illustrious XL 0.1  
+訓練基底模型：Illustrious XL 0.1 (https://civitai.com/models/795765/illustrious-xl)
 
 訓練工具：本作品使用 Hollow Strawberry 開發的 kohya-colab (https://github.com/hollowstrawberry/kohya-colab) ，並依本專案需求進行資料集準備與訓練參數設定。感謝原作者提供此工具。
 
