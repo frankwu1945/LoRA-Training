@@ -50,11 +50,11 @@ Text Encoder 學習率：4e-5
   <tr>
     <td align="center">
       <img src="simple/eva_default(20260901).jpg" width="100%" /><br>
-      <b>Eva 的 Cadet 造型</b>
+      <b>Eva 的 Cadet 造型，露出ya的手勢來確保手動作的可變性</b>
     </td>
     <td align="center">
       <img src="simple/eva_cadet(20260901).jpg" width="100%" /><br>
-      <b>Eva 的 Cadet 造型</b>
+      <b>Eva 的 Cadet 造型，露出ya的手勢來確保手動作的可變性</b>
     </td>
   </tr>
 </table>
@@ -63,7 +63,7 @@ Text Encoder 學習率：4e-5
 
 ---
 
-透過適當處理訓練素材並改善素材標籤來提升LoRA內容的精準度與彈性。
+在訓練過程中將角色身份與服裝特徵分離，使角色能在服裝間進行切換時能維持原有的外觀特徵。。
 
 資料數量：107 
 
@@ -82,7 +82,7 @@ Text Encoder 學習率：4e-5
     </td>
     <td align="center">
       <img src="simple/eva_cadet_nocapelet(20260902).jpg" width="100%" /><br>
-      <b>將cadet造型中的白色披肩移除</b>
+      <b>將cadet造型中的白色披肩移除，確定衣服間的解耦足夠有效</b>
     </td>
   </tr>
 </table>
