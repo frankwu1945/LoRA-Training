@@ -57,7 +57,16 @@ UNet 學習率：1e-4
 Text Encoder 學習率：4e-5  
 
 結果：  
-<p align="center">
-  <img src="simple/eva_cadet(20260902).jpg" width="33%" />
-  <img src="simple/eva_cadet_nocapelet(20260902).jpg" width="33%" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="simple/eva_cadet(20260902).jpg" width="100%" /><br>
+      <b>Eva Cadet</b>
+    </td>
+    <td align="center">
+      <img src="simple/eva_cadet_nocapelet(20260902).jpg" width="100%" /><br>
+      <b>Eva Cadet — No Capelet</b>
+    </td>
+  </tr>
+</table>
+
