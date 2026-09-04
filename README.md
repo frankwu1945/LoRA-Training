@@ -8,7 +8,7 @@
 
 基底模型：Illustrious XL 0.1  
 
-訓練工具：Kohya_ss  
+訓練工具：本作品使用 Hollow Strawberry 開發的 kohya-colab (https://github.com/hollowstrawberry/kohya-colab) ，並依本專案需求進行資料集準備與訓練參數設定。感謝原作者提供此工具。
 
 資料數量：72  
 
