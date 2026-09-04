@@ -10,6 +10,10 @@
 
 訓練工具：本作品使用 Hollow Strawberry 開發的 kohya-colab (https://github.com/hollowstrawberry/kohya-colab) ，並依本專案需求進行資料集準備與訓練參數設定。感謝原作者提供此工具。
 
+繪圖工具：GIMP (3.2.4)
+
+執行工具：本地端 Stable Diffusion WebUI（Automatic1111）
+
 ---
 
 目的：透過較強的學習率來學習角色與服裝的基本特徵
