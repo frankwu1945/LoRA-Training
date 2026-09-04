@@ -10,6 +10,8 @@
 
 訓練工具：本作品使用 Hollow Strawberry 開發的 kohya-colab (https://github.com/hollowstrawberry/kohya-colab) ，並依本專案需求進行資料集準備與訓練參數設定。感謝原作者提供此工具。
 
+---
+
 資料數量：72  
 
 素材大小：1024*1024  
@@ -28,10 +30,6 @@ Text Encoder 學習率：2e-5
 
 為增加模型多樣性與泛化性，透過適當刪減與新增加訓練素材與修改訓練參數來取得更好的LoRA內容。
 
-基底模型：Illustrious XL 0.1  
-
-訓練工具：Kohya_ss  
-
 資料數量：100 
 
 素材大小：1024*1024  
@@ -49,10 +47,6 @@ Text Encoder 學習率：4e-5
 ---
 
 透過適當處理訓練素材並改善素材標籤來提升LoRA內容的精準度與彈性。
-
-基底模型：Illustrious XL 0.1  
-
-訓練工具：Kohya_ss  
 
 資料數量：107 
 
