@@ -16,28 +16,28 @@
 
 ---
 
-目的：透過較強的學習率來學習角色與服裝的基本特徵
+目的：在訓練過程中將角色身份與服裝特徵分離，使角色能在服裝間進行切換時能維持原有的外觀特徵。
 
-訓練日期：2026 年 08 月 20 日
+訓練日期：2026 年 09 月 02 日
 
-資料數量：72  
+資料數量：107 
 
 素材大小：1024*1024  
 
-UNet 學習率：2e-4  
+UNet 學習率：1e-4  
 
-Text Encoder 學習率：2e-5  
+Text Encoder 學習率：4e-5  
 
 結果：  
 <table>
   <tr>
     <td align="center">
-      <img src="simple/eva_default.jpg" width="100%" /><br>
-      <b>Eva 的經典造型，保留改變手勢與頭戴花環等彈性</b>
+      <img src="simple/eva_cadet(20260902).jpg" width="100%" /><br>
+      <b>Eva 的 Cadet 造型</b>
     </td>
     <td align="center">
-      <img src="simple/eva_default_2.jpg" width="100%" /><br>
-      <b>Eva 的經典造型，能透過提詞改變角色的眼睛狀況</b>
+      <img src="simple/eva_cadet_nocapelet(20260902).jpg" width="100%" /><br>
+      <b>將cadet造型中的白色披肩移除，確定衣服間的解耦足夠有效</b>
     </td>
   </tr>
 </table>
@@ -72,29 +72,30 @@ Text Encoder 學習率：4e-5
 
 ---
 
-目的：在訓練過程中將角色身份與服裝特徵分離，使角色能在服裝間進行切換時能維持原有的外觀特徵。
+目的：透過較強的學習率來學習角色與服裝的基本特徵
 
-訓練日期：2026 年 09 月 02 日
+訓練日期：2026 年 08 月 20 日
 
-資料數量：107 
+資料數量：72  
 
 素材大小：1024*1024  
 
-UNet 學習率：1e-4  
+UNet 學習率：2e-4  
 
-Text Encoder 學習率：4e-5  
+Text Encoder 學習率：2e-5  
 
 結果：  
 <table>
   <tr>
     <td align="center">
-      <img src="simple/eva_cadet(20260902).jpg" width="100%" /><br>
-      <b>Eva 的 Cadet 造型</b>
+      <img src="simple/eva_default.jpg" width="100%" /><br>
+      <b>Eva 的經典造型，保留改變手勢與頭戴花環等彈性</b>
     </td>
     <td align="center">
-      <img src="simple/eva_cadet_nocapelet(20260902).jpg" width="100%" /><br>
-      <b>將cadet造型中的白色披肩移除，確定衣服間的解耦足夠有效</b>
+      <img src="simple/eva_default_2.jpg" width="100%" /><br>
+      <b>Eva 的經典造型，能透過提詞改變角色的眼睛狀況</b>
     </td>
   </tr>
 </table>
 
+---
