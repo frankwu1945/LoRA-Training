@@ -6,7 +6,7 @@
 
 角色來源：電腦遊戲 Eternal Return 永恆輪迴  
 
-訓練素材來源：Eternal Return 永恆輪迴 官方 X (https://x.com/_EternalReturn_)
+訓練素材來源：Eternal Return 永恆輪迴 官方 X 
 
 訓練基底模型：Illustrious XL 0.1 (https://civitai.com/models/795765/illustrious-xl)
 
