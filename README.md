@@ -6,9 +6,11 @@
 
 角色來源：電腦遊戲 Eternal Return 永恆輪迴  
 
+訓練素材來源：Eternal Return 永恆輪迴 官方 X (https://x.com/_EternalReturn_)
+
 訓練基底模型：Illustrious XL 0.1 (https://civitai.com/models/795765/illustrious-xl)
 
-訓練工具：本作品使用 Hollow Strawberry 開發的 kohya-colab (https://github.com/hollowstrawberry/kohya-colab) ，並依本專案需求進行資料集準備與訓練參數設定。感謝原作者提供此工具。
+訓練工具：本專案使用 Hollow Strawberry 開發的 kohya-colab (https://github.com/hollowstrawberry/kohya-colab) ，並依本專案需求進行資料集準備與訓練參數設定。感謝原作者提供此工具。
 
 繪圖工具：GIMP (3.2.4)
 
